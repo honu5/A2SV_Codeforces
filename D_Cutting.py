@@ -18,5 +18,5 @@ for c in costs:
     if spent + c > B:
         break
     spent += c
-    cuts += 1
+    cuts += 
 print(cuts)
